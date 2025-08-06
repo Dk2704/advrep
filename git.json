@@ -1,0 +1,59 @@
+[
+    {
+        "prelurl" : "Dk2704/advrep/refs/heads/main/AdventureWorks_Calendar.csv",
+        "sinkfolder" : "AdventureWorks_Calendar",
+        "dataadvfiles" : "AdventureWorks_Product_Categories.csv"
+    },
+    {
+        
+        "prelurl" : "Dk2704/advrep/blob/main/AdventureWorks_Customers.csv.zip",
+        "sinkfolder" : "AdventureWorks_Customers",
+        "dataadvfiles" : "AdventureWorks_Customers.csv"
+
+    },
+    {
+        "prelurl" : "Dk2704/advrep/refs/heads/main/AdventureWorks_Product_Categories",
+        "sinkfolder" : "AdventureWorks_Product_Categories",
+        "dataadvfiles" : "AdventureWorks_Product_Categories.csv" 
+    },
+    {
+        
+        "prelurl" : "Dk2704/advrep/refs/heads/main/AdventureWorks_Product_Subcategories.csv",
+        "sinkfolder" : "AdventureWorks_Product_Subcategories",
+        "dataadvfiles" : "AdventureWorks_Product_Subcategories.csv"
+    },
+    {
+        
+        "prelurl" : "Dk2704/advrep/refs/heads/main/AdventureWorks_Products.csv",
+        "sinkfolder" : "AdventureWorks_Products",
+        "dataadvfiles" : "AdventureWorks_Products.csv"
+    },
+    {
+        "prelurl" : "Dk2704/advrep/refs/heads/main/AdventureWorks_Returns.csv",
+        "sinkfolder" : "AdventureWorks_Returns",
+        "dataadvfiles" : "AdventureWorks_Returns.csv"
+    },
+    {
+        
+        "prelurl" : "Dk2704/advrep/refs/heads/main/AdventureWorks_Sales_2015.csv",
+        "sinkfolder" : "AdventureWorks_Sales_2015",
+        "dataadvfiles" : "AdventureWorks_Sales_2015"
+    },
+    {
+        "prelurl" : "Dk2704/advrep/blob/main/AdventureWorks_Sales_2016.csv.zip",
+        "sinkfolder" : "AdventureWorks_Sales_2016",
+        "dataadvfiles" : "AdventureWorks_Sales_2016"
+    },
+    {
+        "prelurl" : "Dk2704/advrep/blob/main/AdventureWorks_Sales_2017.csv.zip",
+        "sinkfolder" : "AdventureWorks_Sales_2015",
+        "dataadvfiles" : "AdventureWorks_Sales_2015"
+    },
+    {
+        "prelurl" : "Dk2704/advrep/refs/heads/main/AdventureWorks_Territories.csv",
+        "sinkfolder" : "AdventureWorks_Territories",
+        "dataadvfiles" : "AdventureWorks_Territories"
+    }
+ 
+ 
+]
